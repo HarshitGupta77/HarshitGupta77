@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit Gupta
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and App Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Web and App Development
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me - email me at @ harshitgupta0618@gmail.com 
 
 <!---
